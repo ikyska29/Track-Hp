@@ -70,20 +70,20 @@ clear
 echo 'staRting tools... -';
 sleep 0.1;
 clear
-figlet -f slant MR.CL4Y |lolcat
+figlet -f slant YAPSITSIKY |lolcat
 sleep 2
 echo "***********************RCT*********************************"|lolcat
-echo "Author By   : MR.CL4Y"|lolcat
-echo "My Team     : Rabbit Cyber Team"|lolcat
-echo "Contact Me  : RabbitCL4Y123@gmail.com"|lolcat
-echo "My GitHub   : https://github.com/RabbitCL4Y"|lolcat
-echo "My GitLab   : https://gitlab.com/MRCL4Y"|lolcat
+echo "Author By      : YAPSITSIKY"|lolcat
+echo "My Team        : YAPSITSIKY"|lolcat
+echo "Contact Me.    : @YAPSITSIKY"|lolcat
+echo "My Instagram   : https://Instagram.com/yapsitsiky"|lolcat
+echo "My Instagram   : https://Instagram.com/yapsitsiky"|lolcat
 echo "***********************RCT*********************************"|lolcat
 echo "**********LACAK IP LEWAT NOMOR HP**********"
 echo "Y"
 echo "T"
 echo "*******************************************"
-read -p "Root@MR.CL4Y": Put
+read -p "Root@YASPITSIKY": Put
 
 if [ $Put = Y ] || [ $put = y ]
 then
